@@ -17,7 +17,7 @@ float hitungluas(){
 }
 
 float hitungluasBerparameter(float a, float b){
-luas = a * b;
+return luas = a * b;
 
 }
 
